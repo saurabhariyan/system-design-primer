@@ -1699,10 +1699,10 @@ Handy metrics based on numbers above:
 > Questions you encounter might be from the same domain.
 
 * [Airbnb Engineering](http://nerds.airbnb.com/)
-* [Atlassian Developers](https://developer.atlassian.com/blog/)
-* [Autodesk Engineering](http://cloudengineering.autodesk.com/blog/)
-* [AWS Blog](https://aws.amazon.com/blogs/aws/)
-* [Bitly Engineering Blog](http://word.bitly.com/)
+* ~[Atlassian Developers](https://developer.atlassian.com/blog/)~
+* ~[Autodesk Engineering](http://cloudengineering.autodesk.com/blog/)~
+* ~[AWS Blog](https://aws.amazon.com/blogs/aws/)~
+* ~[Bitly Engineering Blog](http://word.bitly.com/)~
 * [Box Blogs](https://www.box.com/blog/engineering/)
 * [Cloudera Developer Blog](http://blog.cloudera.com/blog/)
 * [Dropbox Tech Blog](https://tech.dropbox.com/)
